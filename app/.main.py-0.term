@@ -1,0 +1,1245 @@
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ [K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ main [K[K[K[K[Kpython3 main.y[Kpy
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 14:55:27] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:27] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:27] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:27] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:27] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:27] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:28] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:34] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:37] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:55:38] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:56:05] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:56:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:06] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:17] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:19] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:32] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:38] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:45] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.596608 seconds
+[2, 2, 2, 2, 2, 2]
+['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2
+2
+2
+2
+2
+2
+127.0.0.1 - - [22/Jul/2021 14:56:46] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:56:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:47] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:56:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:56:47] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1" 200 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ [K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ [K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 14:58:44] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:58:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:51] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:52] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.596178 seconds
+[2, 2, 2, 2, 2, 2]
+['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2
+2
+2
+2
+2
+2
+127.0.0.1 - - [22/Jul/2021 14:58:53] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:58:53] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:53] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:54] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:54] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:54] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:58:54] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:58:54] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:09] "[35m[1mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/home.html HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/.local/lib/python3.8/site-packages/flask/app.py", line 2088, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/.local/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.handle_exception(e)
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/.local/lib/python3.8/site-packages/flask/app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/.local/lib/python3.8/site-packages/flask/app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/.local/lib/python3.8/site-packages/flask/app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/.local/lib/python3.8/site-packages/flask/app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/digit-identifier/app/main.py", line 73, in results
+    (class_ids, labels, boxes, confidences) = yolo_forward(net, LABELS, image, confidence_level=0.3)
+  File "/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/digit-identifier/app/ai.py", line 32, in yolo_forward
+    (H, W) = image.shape[:2]
+AttributeError: 'NoneType' object has no attribute 'shape'
+127.0.0.1 - - [22/Jul/2021 14:59:10] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/home.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:59:10] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/home.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:59:10] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/home.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:59:10] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/home.html?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:59:10] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/home.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:59:14] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 14:59:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 14:59:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+Traceback (most recent call last):
+  File "main.py", line 8, in <module>
+    from a2 import get_yolo_net, yolo_forward, yolo_save_img
+ModuleNotFoundError: No module named 'a2'
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:00:40] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:00:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:51] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.772193 seconds
+[2, 2, 2, 2, 2, 2]
+[[5, 3, 18, 17], [4, 3, 19, 18], [4, 3, 19, 18], [5, 4, 18, 17], [4, 4, 19, 18], [4, 4, 19, 18]]
+[0.7255126237869263, 0.9927767515182495, 0.9947274327278137, 0.9381834864616394, 0.9991482496261597, 0.9993965029716492]
+[[5]]
+after NMS, we have these indices
+[5]
+2
+127.0.0.1 - - [22/Jul/2021 15:00:52] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:00:52] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:00:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:04] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:21] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.425228 seconds
+[2, 2, 2, 2, 2, 2, 2, 2]
+[[92, 42, 177, 237], [89, 36, 183, 250], [86, 34, 192, 254], [95, 40, 195, 241], [92, 34, 201, 252], [87, 46, 192, 242], [81, 40, 201, 253], [81, 39, 202, 258]]
+[0.9870886206626892, 0.998370885848999, 0.9983935952186584, 0.3838498592376709, 0.33349117636680603, 0.8629361391067505, 0.9792565107345581, 0.9820318818092346]
+[[2]]
+after NMS, we have these indices
+[2]
+2
+127.0.0.1 - - [22/Jul/2021 15:01:22] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/Screen_Shot_2021-07-15_at_11.24.25_AM.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:22] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_Screen_Shot_2021-07-15_at_11.24.25_AM.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:01:36] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:01:36] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:36] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:36] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:36] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:36] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:37] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:48] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:53] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:54] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.421675 seconds
+[7, 7, 7, 7, 7, 7]
+[[93, 82, 126, 192], [88, 78, 135, 202], [82, 73, 146, 211], [99, 92, 118, 188], [94, 86, 127, 200], [87, 82, 139, 207]]
+[0.6707788705825806, 0.6886027455329895, 0.6832776665687561, 0.6301292777061462, 0.6260104179382324, 0.5812675952911377]
+[[1]]
+after NMS, we have these indices
+[1]
+7
+127.0.0.1 - - [22/Jul/2021 15:01:55] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:01:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:02] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:02:02] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:02] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:02] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:02] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:02] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:02:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:04:09] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:17] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.586983 seconds
+[7, 7, 7, 7, 7, 7]
+[[93, 82, 126, 192], [88, 78, 135, 202], [82, 73, 146, 211], [99, 92, 118, 188], [94, 86, 127, 200], [87, 82, 139, 207]]
+[0.6707788705825806, 0.6886027455329895, 0.6832776665687561, 0.6301292777061462, 0.6260104179382324, 0.5812675952911377]
+[[1]]
+after NMS, we have these indices
+[1]
+7
+127.0.0.1 - - [22/Jul/2021 15:04:18] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:18] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:04:22] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:04:28] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:05:14] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:20] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:22] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.607706 seconds
+[7, 7, 7, 7, 7, 7]
+[[93, 82, 126, 192], [88, 78, 135, 202], [82, 73, 146, 211], [99, 92, 118, 188], [94, 86, 127, 200], [87, 82, 139, 207]]
+[0.6707788705825806, 0.6886027455329895, 0.6832776665687561, 0.6301292777061462, 0.6260104179382324, 0.5812675952911377]
+[[1]]
+after NMS, we have these indices
+[1]
+7
+127.0.0.1 - - [22/Jul/2021 15:05:23] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:05:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:48] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:48] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:48] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:48] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:05:48] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:01] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:06] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:06:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:40] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:06:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:06:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:24:08] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:24:08] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:08] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:24:08] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:08] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:08] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:14] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:24:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:24:20] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:24:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1" 200 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:31:58] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:31:59] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:34:45] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/download3.jfif HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:34:53] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:39:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:25] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:32] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:38] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:39:43] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:40] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:40] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:41] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:46] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:49] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.588130 seconds
+[8, 8, 0, 0, 0, 0, 0, 0, 0, 0]
+[[27, -22, 771, 524], [-1, -28, 826, 538], [48, -14, 732, 551], [25, -22, 780, 565], [68, -21, 733, 567], [42, -26, 783, 577], [28, -1, 767, 582], [12, -11, 802, 600], [44, -4, 784, 586], [18, -6, 834, 592]]
+[0.49416401982307434, 0.55842125415802, 0.989513635635376, 0.98858243227005, 0.9866845607757568, 0.9928762912750244, 0.48021000623703003, 0.5481213331222534, 0.35274064540863037, 0.4734325408935547]
+[[5]]
+after NMS, we have these indices
+[5]
+0
+127.0.0.1 - - [22/Jul/2021 15:40:50] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/crushed_can.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:50] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:50] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:50] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:50] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:50] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:51] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_crushed_can.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:51] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:57] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:40:58] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:12] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.246744 seconds
+[7, 7, 7, 7, 7, 7]
+[[93, 82, 126, 192], [88, 78, 135, 202], [82, 73, 146, 211], [99, 92, 118, 188], [94, 86, 127, 200], [87, 82, 139, 207]]
+[0.6707788705825806, 0.6886027455329895, 0.6832776665687561, 0.6301292777061462, 0.6260104179382324, 0.5812675952911377]
+[[1]]
+after NMS, we have these indices
+[1]
+7
+127.0.0.1 - - [22/Jul/2021 15:41:13] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:41:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:23] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:32] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:33] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:41:34] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ clear
+[H[J]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ pwd
+/projects/1dd280b7-94b0-4d01-b797-68bf8991aba6/digit-identifier/app
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 p[Ka[Kmaim.[K[Kn.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:46:41] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:42] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:46:57] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:03] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:18] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:47:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:25] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:31] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:47:34] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:11] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.584544 seconds
+[7, 7, 7, 7, 7, 7]
+[[93, 82, 126, 192], [88, 78, 135, 202], [82, 73, 146, 211], [99, 92, 118, 188], [94, 86, 127, 200], [87, 82, 139, 207]]
+[0.6707788705825806, 0.6886027455329895, 0.6832776665687561, 0.6301292777061462, 0.6260104179382324, 0.5812675952911377]
+[[1]]
+after NMS, we have these indices
+[1]
+7
+127.0.0.1 - - [22/Jul/2021 15:48:12] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:48:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:12] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:13] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:48:26] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:48:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:27] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:32] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:38] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test21.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:43] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+127.0.0.1 - - [22/Jul/2021 15:48:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test51.jpeg HTTP/1.1[0m" 304 -
+[INFO] YOLO took 0.271210 seconds
+[8, 8, 8, 8]
+[[2, -115, 485, 376], [82, 0, 337, 368], [56, -26, 389, 422], [63, -30, 417, 427]]
+[0.3176229000091553, 0.9826011061668396, 0.9908419251441956, 0.3730359673500061]
+[[2]]
+after NMS, we have these indices
+[2]
+8
+127.0.0.1 - - [22/Jul/2021 15:48:44] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/manydigits.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:48:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:44] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:45] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:48:45] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_manydigits.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:49:09] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:49:10] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ m[Kpython [K3 main.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclear
+[H[J]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ clearpython3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:50:13] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:50:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:13] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:50:14] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 15:51:17] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 15:51:18] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ [K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ [K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclearpython3 main.py[10Pclear[K[K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ [K]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ clear
+[H[J]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ clear[Kclearpython3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 16:04:47] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:47] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:52] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:04:54] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.596243 seconds
+[0, 0, 0]
+[[6, 4, 13, 19], [6, 4, 14, 19], [6, 4, 14, 19]]
+[0.9970546960830688, 0.9996619820594788, 0.999651312828064]
+[[1]]
+after NMS, we have these indices
+[1]
+0
+127.0.0.1 - - [22/Jul/2021 16:04:55] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/img_101.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_img_101.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:04:55] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:00] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:05:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ python3 main.py
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Serving Flask app 'main' (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.2:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+[INFO] loading YOLO from disk...
+Try to open
+
+    https://cocalc4.ai-camp.org/1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 141-309-297
+127.0.0.1 - - [22/Jul/2021 16:06:04] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:06:04] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:04] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:04] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:04] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:04] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:05] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:09] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:15] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:18] "[32mPOST /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1[0m" 302 -
+[INFO] YOLO took 0.595480 seconds
+[7, 7, 7, 7, 7, 7]
+[[93, 82, 126, 192], [88, 78, 135, 202], [82, 73, 146, 211], [99, 92, 118, 188], [94, 86, 127, 200], [87, 82, 139, 207]]
+[0.6707788705825806, 0.6886027455329895, 0.6832776665687561, 0.6301292777061462, 0.6260104179382324, 0.5812675952911377]
+[[1]]
+after NMS, we have these indices
+[1]
+7
+127.0.0.1 - - [22/Jul/2021 16:06:19] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/uploads/test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Results.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/files/yolo_test7.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:06:19] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/confmatrix1.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "GET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/ HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/Home.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/nicepage.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/jquery.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/ai_camp_logo.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/digits_bg_auto_x2.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test1.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0hartigan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/IMG_6588.JPG HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Regular.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/fonts/Lora-Bold.ttf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image1Duong.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/image0Preyansh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/grace.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:21] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/code_bg_again.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [22/Jul/2021 16:06:26] "[36mGET /1dd280b7-94b0-4d01-b797-68bf8991aba6/port/12345/static/images/test3_new.jpeg HTTP/1.1[0m" 304 -
+^C]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
+]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ clear
+[H[J]0;~/digit-identifier/app[01;34m~/digit-identifier/app[00m$ 
